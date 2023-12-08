@@ -139,6 +139,7 @@ nlu:
     - What is the maximum duration for a single leave request?
     - How many sick leave days are allowed per year?
     - What is the annual leave entitlement for employees?
+    - about annual leave in Sabudh?
     
 
 - intent: leave/status
